@@ -1,0 +1,55 @@
+html, body {
+	font-family: 'Josefin Sans', Sans-serif;
+	Font size: 16px;
+}
+
+h1{
+	
+	font-size: 80px;
+	letter-spacing: 10px;
+	color: hsl(0, 36%, 70%)
+
+
+}
+.com{
+	font-size: 80px;
+	letter-spacing: 5px;
+	font-weight: bold;
+
+	
+	
+}
+p{
+	color: hsl(0, 36%, 70%);
+	margin-top: 10px;
+	margin-bottom: 50px;
+	
+	
+
+}
+.soon{
+	font-size: 80px;
+	letter-spacing: 5px;
+	font-weight: bold;
+	text-align: left;
+
+	
+	
+}
+
+	
+
+}
+form .form-control::-moz-placeholder {
+  color:  hsl(0, 36%, 70%);
+  
+}
+form .form-control:-ms-input-placeholder {
+  color:  hsl(0, 36%, 70%);
+}
+form .form-control::-webkit-input-placeholder {
+  color:  hsl(0, 36%, 70%);
+}
+.form-control{
+	height: 60px;
+}
